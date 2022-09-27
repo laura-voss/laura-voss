@@ -11,5 +11,5 @@
 - Databases (MongoDB, SQL: PostgreSQL)
 - HTML, CSS
 - Git, GitHub
----
-<img align="left" alt="laura-voss Github Stats" src="https://github-readme-stats.vercel.app/api?username=laura-voss&custom_title=Laura's%27s%20GitHub%20Stats&show_icons=true&hide_border=true&theme=tokyonight"/>
+<!-- ---
+<img align="left" alt="laura-voss Github Stats" src="https://github-readme-stats.vercel.app/api?username=laura-voss&custom_title=Laura's%27s%20GitHub%20Stats&show_icons=true&hide_border=true&theme=tokyonight"/> -->
