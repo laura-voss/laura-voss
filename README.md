@@ -2,7 +2,7 @@
 
 - Recently graduated from Makers Academy (a 16-week intensive software bootcamp)
 - Looking for my first position as a Junior Software Engineer
-- Please have a look at my [Github CV](https://github.com/laura-voss/CV) 
+- You can find my Github CV [here](https://github.com/laura-voss/CV) 
 - Feel free to get in touch via [Linkedin](https://www.linkedin.com/in/laura-voss-london/)
 ---
 ### Tech Skills:
